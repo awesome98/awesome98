@@ -32,3 +32,4 @@
 ## Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtjq382)](https://solved.ac/profile/ghtjq382)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome98&layout=compact)
