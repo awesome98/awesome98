@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoseop%20is%20Awesome&fontAlign=50)
+![Header]([https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoseop%20is%20Awesome&fontAlign=50](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hoseop%20=%20Awesome&fontAlign=50))
 
 ## Data Analysis, Hoseop
 
