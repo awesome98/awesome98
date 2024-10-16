@@ -11,6 +11,9 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)  
+![java](https://img.shields.io/badge/java%20-%20ffbf00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/keras%20-%20%23fe6f5e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/pytorch%20-%20%23fae7b5?style=for-the-badge)
 
 
 **🛠️ Infra and Tools**
