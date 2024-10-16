@@ -31,6 +31,6 @@
 
 ## Baekjoon
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtjq382)](https://solved.ac/profile/ghtjq382)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtjq382)](https://solved.ac/profile/ghtjq382)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesome98&layout=compact)
 ![Hoseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesome98&show_icons=true&theme=radical)
